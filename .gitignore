@@ -5,3 +5,5 @@
 *.wav
 *.jpg
 .DS_Store
+*.iml
+*.xml
